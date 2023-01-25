@@ -2,7 +2,7 @@
 Repository of historical , interesting notes and information regarding Honey Bees
 
 \############################################################\
-&nbsp;&nbsp;&nbsp;&nbsp;TOC - TABLE OF CONTENTS\
+<pre>           TOC - TABLE OF CONTENTS\ </pre>
 \############################################################
 
 0) Miscellaneous information and notes
