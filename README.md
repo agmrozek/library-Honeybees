@@ -16,9 +16,9 @@ Repository of historical , interesting notes and information regarding Honey Bee
             1) HONEY BEE FARMING NOTES
 \######################################################
 
---------------------------------------------
+\--------------------------------------------
 General Beekeeping Knowledge
---------------------------------------------
+\--------------------------------------------
 - traditionally we use 2 deep for brood chamber and 
 medium supers for honey harvesting
 
